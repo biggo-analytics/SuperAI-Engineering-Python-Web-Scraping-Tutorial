@@ -1,6 +1,6 @@
 # SuperAI-Engineering-Python-Web-Scraping-Tutorial
 
-#### Slide: [Python Web Scraping  & Regular Expression](https://docs.google.com/presentation/d/10-nJcdZJFxpRHIELkK7KkEjz9W7ZCmu-jYlwH208qYQ/edit?usp=sharing "Python Web Scraping  & Regular Expression")
+#### Slide: [Python Web Scraping & Regular Expression](https://docs.google.com/presentation/d/10-nJcdZJFxpRHIELkK7KkEjz9W7ZCmu-jYlwH208qYQ/edit?usp=sharing "Python Web Scraping & Regular Expression")
 
 #### Google Colab
 - [Colab #1: Get the website (requests)](https://colab.research.google.com/drive/1owjtbxt3QWVk_BaB5Dmx9tYetZHsWnpU?usp=sharing "Colab #1: Get the website (requests)")
